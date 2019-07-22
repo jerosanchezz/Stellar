@@ -1,4 +1,4 @@
-# Stellar Photos of the Day (V1.0)
+# Stellar Photos
 
 Check the cosmic photo of the day and read the story behind it. Each day, every day. 
 
